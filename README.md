@@ -54,5 +54,7 @@ The aim is to enhance understanding of MetS, enabling early detection and better
 The research showcases the collaboration between computational experts and medical researchers, revealing hidden insights about MetS and identifying important genes like IRX3 and SLC22A1.
 The best predictive model achieved a high accuracy of 94.3%, demonstrating real potential for early detection and intervention.
 Highlights the transformative potential of computational methods in healthcare, ultimately benefiting global populations as MetS becomes increasingly prevalent due to lifestyle choices.
-Team Collaboration
+
+Team Collaboration:
+
 This project was conducted collaboratively by me and my colleague Hosna Gholizadeh.
