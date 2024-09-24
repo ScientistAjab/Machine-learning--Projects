@@ -1,17 +1,20 @@
 # Machine-learning--Projects
-Objective
+Objective:
+
 Understand and prepare the dataset for analysis.
 Train a predictive model to classify (distinguish) diseased patients (metabolic disorder) from healthy individuals.
 Evaluate the model's performance.
 
-Methodology
+Methodology:
+
 Utilized unsupervised learning techniques for initial data exploration and clustering of patient profiles.
 Performed extensive data cleaning and transformation to ensure the accuracy and usability of clinical data.
 Applied Random Forest, Logistic Regression, and Neural Networks to predict key features contributing to Metabolic Syndrome (MS).
 Conducted feature importance analysis to identify critical risk factors linked to the syndrome.
 Enhanced model performance through hyperparameter tuning and evaluation using cross-validation techniques.
 Achieved accurate predictions and identified potential biomarkers that correlate with MS.
-Discussion
+
+Discussion:
 
 Conducted a comprehensive analysis of a biomedical dataset containing patient demographics, clinical features, and genetic mutations to gain insights into Metabolic Syndrome (MetS).
 Employed rigorous data preprocessing, feature engineering, and both unsupervised and supervised learning techniques to extract meaningful information and develop predictive models for MetS.
@@ -33,7 +36,8 @@ Contributions
 Uncovered valuable insights into MetS subgroups and risk factors, enhancing understanding of the disease's complexity.
 Improved predictive capabilities for MetS risk using readily available patient data, facilitating early detection and personalized interventions.
 
-Limitations
+Limitations:
+
 Dataset skewed towards non-diseased individuals, affecting model performance.
 Missing key features (e.g., family history) limited insights into Metabolic Syndrome (MetS).
 Data completeness issues (e.g., smoking history) posed challenges.
@@ -43,7 +47,8 @@ Focus on balanced data collection and including more features.
 Improve data completeness for better model training.
 Utilize simpler models with regularization techniques for better interpretability and generalization.
 
-Conclusions
+Conclusions:
+
 This innovative study blends computational techniques with medical research to address Metabolic Syndrome (MetS), a significant health issue exacerbated by modern lifestyles.
 The aim is to enhance understanding of MetS, enabling early detection and better treatment.
 The research showcases the collaboration between computational experts and medical researchers, revealing hidden insights about MetS and identifying important genes like IRX3 and SLC22A1.
